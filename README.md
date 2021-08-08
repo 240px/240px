@@ -1,4 +1,4 @@
-- 👋 Hello! I'm 240px a Full Stack Developer. ✨
+- 👋 Hello! I'm 240px. ✨
 - 👀 I’m interested in Algorithm and Data Structures, Machine learning. ✨
 - 🌱 I’m currently learning python. ✨
 <p align="center">
